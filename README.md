@@ -12,7 +12,7 @@ Your OS should have python preinstalled♥️
 
 All you need to do is:
 
-1. [Download the latest Release](https://github.com/KawaneRio/vrchat_world.py/releases/download/v1.0.1/IjustWannaKnowHowtheVRChatAPIworks_AlsoPleaseHireMeVRChat_PythonScript_by_KawaneRio.py)
+1. [Download the latest Release](https://github.com/KawaneRio/vrchat_world.py/releases/download/v1.0.2/IjustWannaKnowHowtheVRChatAPIworks_AlsoPleaseHireMeVRChat_PythonScript_by_KawaneRio.py)
 
 2. Double click the file with your mouse to run it!
 
@@ -70,7 +70,7 @@ If everything goes well, you should be greeted with a window that says "Modify w
 
 You may now close the installer.
 
-6. [Download the latest Release](https://github.com/KawaneRio/vrchat_world.py/releases/download/v1.0.1/IjustWannaKnowHowtheVRChatAPIworks_AlsoPleaseHireMeVRChat_PythonScript_by_KawaneRio.py)
+6. [Download the latest Release](https://github.com/KawaneRio/vrchat_world.py/releases/download/v1.0.2/IjustWannaKnowHowtheVRChatAPIworks_AlsoPleaseHireMeVRChat_PythonScript_by_KawaneRio.py)
 
 7. Double click the file with your mouse to run it!
 
