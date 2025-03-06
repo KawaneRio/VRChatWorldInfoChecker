@@ -2,6 +2,8 @@
 A Simple CLI Python Script that outputs information about a VRChat World by inputting their ID. 
 This was more of a test project I used to poke around the VRChat API. 
 
+![image](https://github.com/user-attachments/assets/0516684d-e0e5-4f8c-9162-fd2026d0009c)
+
 # Installation
 
 This is a python script, therefore, you must have python installed in order to run it.
