@@ -86,6 +86,11 @@ def get_vrchat_world_details(world_url):
     else:
         return f"💀💀💀Error: {response.status_code}, {response.text}"
 
-# ---- User Input ----
-world_url = input("Enter VRChat World URL or World ID: ").strip()
-print(get_vrchat_world_details(world_url))
+# ---- Keep the script running until the user exits ----
+while True:
+    world_url = input("\nEnter VRChat World URL or World ID (or type 'exit' to quit): ").strip()
+
+    if world_url.lower() in ["exit", "quit"]:
+        break  # EXIT THE LOOP
+
+    print(get_vrchat_world_details(world_url))
