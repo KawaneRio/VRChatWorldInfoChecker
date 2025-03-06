@@ -17,9 +17,9 @@ def get_vrchat_world_details(world_url):
 
     url = f"https://api.vrchat.cloud/api/1/worlds/{world_id}"
 
-    # 🍪🍪🍪🍪🍪DON'T FORGET YOUR COOOOKIEEEESSSSS!!!!!🍪🍪🍪🍪🍪
+    # 🍪🍪🍪🍪🍪DON'T FORGET TO GIVE ME YOUR AUTHCOOKIES HERE!!!!!🍪🍪🍪🍪🍪
     cookies = {
-        "auth": "authcookie_🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+        "auth": "authcookie_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
     }
 
     # VRChat requires a User-Agent header
@@ -53,7 +53,7 @@ def get_vrchat_world_details(world_url):
         elif "standalonewindows" in platforms:
             compatibility = "standalonewindows_only"
         else:
-            compatibility = "I see nothin' here; are you logged in bro?"
+            compatibility = "I see nothin' here; did you forget to modify the script and give me your authcookie?🍪"
 
         # Print the details
         world_info = f"""
